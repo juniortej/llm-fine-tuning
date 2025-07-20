@@ -48,8 +48,8 @@ temperature = 1  # Higher temperature means more randomness maximum is 2 default
 
 # TOTAL DATA
 ESSAY_CHUNK_SIZE = 500
-QUESTIONS_PER_CHUNK = 1
-ADVICE_PER_CHUNK = 1
+QUESTIONS_PER_CHUNK = 100
+ADVICE_PER_CHUNK = 100
 
 # COUNTS
 BASIC_INSTRUCTIONS_COUNT = 50
