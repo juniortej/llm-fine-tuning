@@ -285,6 +285,7 @@ When creating GGUF, there is two options.
 What you want to do with the weights. LoRA adapter weights you trained. 
  
 ![alt text](<images/Capture d’écran 2025-07-19 à 12.33.55.png>)
+
 You can turned both base model in a GGUF and the adapter in a GGUF separately and during inference time just put them on top. 
 This allows you to easily swap out different adapters at inference time, which can also be helpful for certain use cases. 
 
