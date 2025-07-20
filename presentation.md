@@ -32,7 +32,7 @@ We are making life probably more complicated
 ### What about RAG (Retrieval Augmented Generation) ?
 It's really common and useful when we want to answer questions about knowledge base that changes frequently.
 
-![alt text](<images/Capture d’écran 2025-07-19 à 10.59.27.png>)
+![alt text](<images/rag.png>)
 
 Since a RAG contructs in his process a custom query to find relevant informations base on database/documents
 It's better to use it when you have a changeable knowledge base rather than finetuning everytime. 
@@ -284,7 +284,7 @@ So no need a GPUs.
 When creating GGUF, there is two options. 
 What you want to do with the weights. LoRA adapter weights you trained. 
  
-![alt text](<images/Capture d’écran 2025-07-19 à 12.33.55.png>)
+![alt text](<images/lora.png>)
 
 You can turned both base model in a GGUF and the adapter in a GGUF separately and during inference time just put them on top. 
 This allows you to easily swap out different adapters at inference time, which can also be helpful for certain use cases. 
