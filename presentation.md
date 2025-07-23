@@ -304,6 +304,9 @@ After created your GGUF, you can use either ollama, llama c++ ...
 All the other inference are built up on llama.cpp, even ollama. 
 But ollama is much user friendly + a nice UI. 
 
+### You can create GGUF of LoRA using this link
+https://huggingface.co/spaces/ggml-org/gguf-my-lora
+
 
 ## Get started 
 Hands on ...
