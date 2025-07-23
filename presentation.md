@@ -308,5 +308,9 @@ But ollama is much user friendly + a nice UI.
 https://huggingface.co/spaces/ggml-org/gguf-my-lora
 
 
+## Using GRPO to create QloRA reasoning model
+
+
+
 ## Get started 
 Hands on ...
