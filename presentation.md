@@ -311,6 +311,10 @@ https://huggingface.co/spaces/ggml-org/gguf-my-lora
 ## Using GRPO to create QloRA reasoning model
 
 
+## LoRA finetuning guide on how to choose hyperparameters
+https://docs.unsloth.ai/get-started/fine-tuning-llms-guide/lora-hyperparameters-guide
+
+
 
 ## Get started 
 Hands on ...
